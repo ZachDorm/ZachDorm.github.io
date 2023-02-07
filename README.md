@@ -1,16 +1,12 @@
 
 <body style = "background-color: #D5D1CB"></body>
+<div style = "border-color: #58595B"></div>
 # Zach Dorminey
 My name is Zach Dorminey. I am a first year Master's student in Geography at the Department of Geography and Sustainability at the [University of Tennessee, Knoxville](https://utk.edu) (UTK). I am focusing on quantitative methods in geographical information systems (GIS).
 
 ## Background
 I am from Morgantown, West Virginia where I grew up and went to college at [West Virginia University](https://www.wvu.edu/) (WVU). I graduated from WVU with a BS in Civil Engineering and worked for about 2 years in the industry. After exploring some opportunities in geography, I decided to go back to school and pursue in-depth quantitative methods in geography.
 
-## Teaching
-In my time at UTK I have worked as a Graduate Teaching Assistant, serving as a TA for:
-- GEOG 131 Weather/Climate/Climate Change
-and 
-- GEOG 132 Landscapes and Environmental Change
 
 ## Research
 My research interests include small area estimation, cluster analysis methods, and quantitative methods as a larger body of study. All my work points to my fascination with different methods to account for spatially related phenomena. I enjoy reading the original works foundational to quantitative methods in geography and learning how those works are vital to cutting edge research today.
@@ -33,7 +29,7 @@ server <- function(input, output, session){
 
 ```
 ### Forest Inventory and Analysis (FIA)
-I currently work part-time with Dr. Nicholas Nagle on USFS FIA research looking into new ways for small area estimation as it relates to the goals of the Southern Research Station.
+I currently work part-time with Dr. Nicholas Nagle (UTK) on USFS FIA research looking into new ways for small area estimation in accordance with the goals of the Southern Research Station.
 
 ```R
 library("rFIA")
@@ -44,7 +40,15 @@ library("rFIA")
 - GEOG 515 - Quantitative Methods in Geography
 - STAT 578 - Categorical Data Analysis
 
-Go Vols!
+## Teaching
+In my time at UTK I have worked as a Graduate Teaching Assistant, serving as a TA for:
+- GEOG 131 Weather/Climate/Climate Change
+and 
+- GEOG 132 Landscapes and Environmental Change
+
+##  
+##  
+## Go Vols!
 <!-- Markdown will also render HTML-->
 <!-- for an image-->
 ![](ZTD_portrait.jpg)
