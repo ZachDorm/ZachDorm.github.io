@@ -25,5 +25,5 @@ print("Zach's Website")
 
 
 <!-- Markdown will also render HTML-->
-<!-- for an image>
-<!--![](url)-->
+<!-- for an image-->
+![](ZTD_portrait.jpg)
