@@ -1,6 +1,6 @@
 
 <body style = "background-color: #D5D1CB"></body>
-<p style = "border-color: #58595B"></p>
+<h2 style = "background-color: #58595B"></h2>
 # Zach Dorminey
 My name is Zach Dorminey. I am a first year Master's student in Geography at the Department of Geography and Sustainability at the [University of Tennessee, Knoxville](https://utk.edu) (UTK). I am focusing on quantitative methods in geographical information systems (GIS).
 
