@@ -1,7 +1,13 @@
 
 <body style = "background-image: linear-gradient(#D5D1CB, #58595B)"></body>
-![background_image](ZTD_portrait.jpg)
+<div class="column"> </div>
 
+<style>
+.column{
+    width:50%; 
+    background-image: linear-gradient(#D5D1CB, #58595B);
+    }
+</style>
 
 # Zach Dorminey
 My name is Zach Dorminey. I am a first year Master's student in Geography at the Department of Geography and Sustainability at the [University of Tennessee, Knoxville](https://utk.edu) (UTK). I am focusing on quantitative methods in geographical information systems (GIS).
