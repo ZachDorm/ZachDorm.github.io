@@ -1,4 +1,4 @@
-# ZachDorm.github.io
+# Zach Dorminey
 My name is Zach Dorminey. I am a Master's student in Geography at the Department of Geography and Sustainability at the [University of Tennessee, Knoxville](https://utk.edu). I am focusing on quantitative methods in geographical information systems (GIS).
 
 ## Background
