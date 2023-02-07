@@ -12,10 +12,16 @@ My research interests include small area estimation, cluster analysis methods, a
 
 My most recent work, Assessing the Spatial Clustering of Right of Way Permits in Davidson County, Tennessee, utilizes Ripley's K function to compare the clustering tendencies of right of way permits to the distribution of addresses. I developed an R Shiny app in this work so that my methods are easily visualized and repeated with different datasets without the need for the user to have experience with GIS. I will presenting a poster on this work at GeoSym 2023 at UTK and at AAG 2023 in Denver.
 
-## Coursework
-GEOG 411
-GEOG 510
-GEOG
+## Relevant Coursework
+- GEOG 411 - Intermediate GIS
+- GEOG 510 - Geographic Software Design
+- GEOG 515 - Quantitative Methods in Geography
+- STAT 578 - Categorical Data Analysis
+
+<!--sample python source code-->
+```python
+print("Zach's Website")
+```
 
 
 <!-- Markdown will also render HTML-->
