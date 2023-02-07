@@ -1,5 +1,5 @@
 
-<body style = "background-color: #D5D1CB">
+<body style = "background-color: #D5D1CB"></body>
 # Zach Dorminey
 My name is Zach Dorminey. I am a Master's student in Geography at the Department of Geography and Sustainability at the [University of Tennessee, Knoxville](https://utk.edu) (UTK). I am focusing on quantitative methods in geographical information systems (GIS).
 
@@ -30,4 +30,3 @@ print("Zach's Website")
 <!-- for an image-->
 ![](ZTD_portrait.jpg)
 
-</body>
