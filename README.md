@@ -7,7 +7,7 @@
 <style>
 
 .container-lg.px-3.my-5.markdown-body{
-        background-image: linear-gradient(#D5D1CB, #58595B)";
+        background-image: linear-gradient(#D5D1CB, #58595B);
 }
 </style>
 
