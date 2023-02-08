@@ -1,12 +1,14 @@
 
-<body style = "background-image: linear-gradient(#D5D1CB, #58595B)"></body>
-<div class="column"> </div>
-
+<body>
+<img src="/portrait_ZTD.jpg">
+<!--linear-gradient(#D5D1CB, #58595B)">-->
+</body>
+<!--container-lg px-3 my-5 markdown-body-->
 <style>
-.column{
-    width:50%; 
-    background-image: linear-gradient(#D5D1CB, #58595B);
-    }
+
+.container-lg.px-3.my-5.markdown-body{
+        background-color: #58595B;
+}
 </style>
 
 # Zach Dorminey
