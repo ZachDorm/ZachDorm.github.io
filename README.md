@@ -7,8 +7,9 @@
 <style>
 
 body{
-    background-image: url("ZTD_portrait.jpg");
+    background-image: url("Neyland_pic.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .container-lg.px-3.my-5.markdown-body{
         background-image: linear-gradient(#D5D1CB, #58595B);
