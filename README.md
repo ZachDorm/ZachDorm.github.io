@@ -7,7 +7,7 @@
 <style>
 
 body{
-    background-image: url("Neyland_pic.jpg");
+    background-image: url("Neyland_Pic.jpg");
     background-size: cover;
     background-position: center;
 }
