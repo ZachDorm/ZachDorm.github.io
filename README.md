@@ -1,11 +1,14 @@
 
-<body style="background-image: url(ZTD_portrait.jpg)">
+<body>
 <!--img src="/ZTD_portrait.jpg"-->
 <!--linear-gradient(#D5D1CB, #58595B)>-->
 </body>
 <!--container-lg px-3 my-5 markdown-body-->
 <style>
 
+.body{
+    background-image: url("ZTD_portrait.jpg")
+}
 .container-lg.px-3.my-5.markdown-body{
         background-image: linear-gradient(#D5D1CB, #58595B);
 }
