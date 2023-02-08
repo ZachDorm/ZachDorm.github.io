@@ -61,8 +61,7 @@ In my time at UTK I have worked as a Graduate Teaching Assistant, serving as a T
 and 
 - GEOG 132 Landscapes and Environmental Change
 
-##  
-##  
+
 ## Go Vols!
 <!-- Markdown will also render HTML-->
 <!-- for an image-->
