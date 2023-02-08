@@ -6,8 +6,9 @@
 <!--container-lg px-3 my-5 markdown-body-->
 <style>
 
-.body{
-    background-image: url("ZTD_portrait.jpg")
+body{
+    background-image: url("ZTD_portrait.jpg");
+    background-repeat: no-repeat;
 }
 .container-lg.px-3.my-5.markdown-body{
         background-image: linear-gradient(#D5D1CB, #58595B);
