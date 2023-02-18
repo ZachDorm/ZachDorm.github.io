@@ -16,6 +16,9 @@ body{
 }
 </style>
 
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ZachDorm/GEOG-510/blob/master/Lab2_Notebook.ipynb)
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-dorminey-a07b59101/)
 # Zach Dorminey
 My name is Zach Dorminey. I am a first year Master's student in Geography at the Department of Geography and Sustainability at the [University of Tennessee, Knoxville](https://utk.edu) (UTK). I am focusing on quantitative methods in geographical information systems (GIS).
 
@@ -66,4 +69,5 @@ and
 <!-- Markdown will also render HTML-->
 <!-- for an image-->
 ![](ZTD_portrait.jpg)
+
 
