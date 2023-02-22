@@ -16,7 +16,7 @@ body{
 }
 </style>
 
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZachDorm/GEOG510-Test/blob/main/newGEEnotebook.ipynb)
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BW2AhIrDP7yWvvFf_76JYBY789Sw4tfe)
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-dorminey-a07b59101/)
 # Zach Dorminey
